@@ -2,6 +2,10 @@
 
 macOS desktop application for processing and exporting PDF documents.
 
+## Downloads
+
+**macOS App (DMG):** [Download v1.0.0](https://github.com/Enslavia/ScanThis/releases/latest/download/ScanThis.dmg)
+
 ## Features
 
 - Import PDF and images (PNG, JPG, TIFF, BMP)
@@ -19,7 +23,7 @@ macOS desktop application for processing and exporting PDF documents.
 - **OpenCV + NumPy** — Image processing
 - **PyInstaller** — .app bundle building
 
-## Run
+## Run from source
 
 ```bash
 pip install -r requirements.txt
